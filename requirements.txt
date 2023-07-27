@@ -21,7 +21,7 @@ coffeehouse
 pymongo
 regex
 bleach
-https://github.com/starry69/python-markdown2.git
+git+https://github.com/starry-shivam/python-markdown2.git
 wikipedia
 telethon==1.16.4
 spamwatch
